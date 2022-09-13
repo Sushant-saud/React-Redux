@@ -1,0 +1,40 @@
+
+.btn-wrapper button{
+    background:red;
+    border:0px;
+    padding:10px;
+    border-radius:5px;
+    color:#fff;
+    box-shadow:0px 2px 5px gray;
+}
+.img-wrapper{
+    height:100px;
+}
+.img-wrapper img{
+  width:40px;
+  height:80%;
+  margin-top:-10px;
+}
+.Cart-Wrapper{
+    height:100px;
+    width:500px;
+    border:1px solid #ccc;
+}
+.item {
+    display: inline-block;
+    float:left;
+    width:120px;
+    padding: 18px;
+    margin-right:10px;
+    text-align: center;
+}
+.add-to-cart{
+     position:absolute;
+     top:20px;
+     right:20px;
+}
+.add-to-cart img 
+{
+    width:40px;
+    height:40px;
+}
